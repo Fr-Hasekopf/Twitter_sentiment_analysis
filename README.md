@@ -17,21 +17,21 @@ The evaluation metric from this practice problem is `F1-Score`.
 1. Understand the Problem Statement  
   
 2. Tweets Preprocessing and Cleaning    
-⋅⋅*Data Inspection  
-⋅⋅*Data Cleaning  
+* Data Inspection  
+* Data Cleaning  
   
 3. Story Generation and Visualization from Tweets  
   
 4. Extracting Features from Cleaned Tweets  
-⋅⋅* Bag-of-Words  
-⋅⋅* TF-IDF  
-⋅⋅* Word Embeddings  
+* Bag-of-Words  
+* TF-IDF  
+* Word Embeddings  
   
 5. Model Building: Sentiment Analysis  
-⋅⋅* Logistic Regression  
-⋅⋅* Support Vector Machine  
-⋅⋅* RandomForest  
-⋅⋅* XGBoost    
+* __Logistic Regression__  
+* __Support Vector Machine__  
+* __RandomForest__  
+* __XGBoost__    
   
 6. Model Fine-tuning
 7. Summary
