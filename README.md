@@ -4,6 +4,9 @@
 In this practice project, we focus on NLP techniques (especially sentiment analysis methods). Our task is to classify a set of tweets into two categories:  
 ⋅⋅*racist/sexist  
 ⋅⋅*non-racist/sexist  
+  
+Data used for this project can be found [here.](https://datahack.analyticsvidhya.com/contest/practice-problem-twitter-sentiment-analysis/)
+
 Details and results are presented in the Jupyter Notebook.   
   
 The objective of this task is to detect hate speech in tweets. Particularly, we determine that a tweet contains hate speech if it has a racist or sexist sentiment associated with it.  
